@@ -5,7 +5,7 @@
 
 **Usage**
 
-&emsp;&emsp; Download README_EN.pdf from Code for details
+&emsp;&emsp; Read README_EN/CN.pdf from Code for details
 
 **Download**
 
