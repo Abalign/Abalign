@@ -9,5 +9,5 @@
 
 **Download**
 
-&emsp;&emsp; Download the version you need from release (ubuntu/windows)
+&emsp;&emsp; Download the version you need from Release (ubuntu/windows)
 
