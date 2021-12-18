@@ -11,3 +11,6 @@
 
 &emsp;&emsp; Download the version you need from Release (ubuntu/windows)
 
+**Author**
+
+&emsp;&emsp; This software is developed by Yang Cao Laboratory, College of Life Sciences, Sichuan University. The main developers are Fanjie Zong, Chenyu Long, Wanxin Hu, and Yang Cao. If you have any opinions or suggestions, please contact cy_scu@yeah.net. 
