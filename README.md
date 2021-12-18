@@ -5,9 +5,9 @@
 
 **Usage**
 
-  Download README_EN.pdf from Code for details
+&emsp;&emsp; Download README_EN.pdf from Code for details
 
 **Download**
 
-  Download the version you need from release (ubuntu/windows)
+&emsp;&emsp; Download the version you need from release (ubuntu/windows)
 
