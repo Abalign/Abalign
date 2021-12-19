@@ -1,4 +1,4 @@
-# Abalign：a BCR multiple sequence alignment tool based on antibody numbering
+# Abalign: a multiple BCR sequence alignment tool guided by antibody numbering
 
 
 ## Introduce
