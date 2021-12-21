@@ -35,4 +35,4 @@ BCR or antibody sequences and get new discovery in immunoinformatic study.
 
 ## Authors
 
-&emsp;&emsp; This software is developed by Yang Cao Laboratory, College of Life Sciences, Sichuan University. The main developers are Fanjie Zong, Chenyu Long, Wanxin Hu, and Yang Cao. If you have any opinions or suggestions, please contact cy_scu@yeah.net. 
+&emsp;&emsp; This software is developed by Cao Lab, Sichuan University. The main developers are Fanjie Zong, Chenyu Long, Wanxin Hu, and Yang Cao. If you have any opinions or suggestions, please contact cy_scu@yeah.net. 
