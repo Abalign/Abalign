@@ -27,7 +27,7 @@ BCR or antibody sequences and get new discovery in immunoinformatic study.
 
 ## Usage
 
-&emsp;&emsp; Read User-Guide.pdf from Code for details
+&emsp;&emsp; Read USER_MANUAL.pdf from Code for details
 
 ## Download
 
