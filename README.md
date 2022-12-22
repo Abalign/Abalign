@@ -31,7 +31,7 @@ BCR or antibody sequences and get new discovery in immunoinformatic study.
 
 ## Download
 
-&emsp;&emsp; Download the version you need from Release (Linux/Windows/macOS)
+&emsp;&emsp; Download the version you need from Release (Linux/Windows/macOS_x86)
 
 ## Authors
 
