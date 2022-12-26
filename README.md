@@ -3,27 +3,9 @@
 
 ## Introduce
 
-&emsp;&emsp; Multiple sequence alignment has long been used as a powerful tool to investigate the 
-evolutionary, structural and functional properties of protein families. Compared with ordinary 
-protein families, antibodies or BCR sequences have highly variable regions, which make the 
-existing multiple sequence alignment methods unable to produce precise result on antibodies. 
-Recently, the increasing data of BCR sequence along with COVID-19's global popularity has 
-stimulated the great needs for multiple BCR sequence alignment and bioinformatics analysis. To 
-address this issue, we developed a multiple sequence alignment method based on AbRSA, 
-named Abalign, which is guided by the heuristic knowledge of standardized antibody sequence 
-numbering schemes, including IMGT, KABAT and Chothia systems. The alignment follows the 
-well-characterized patterns of conserved or insertion positions by immunology studies, which 
-enable the result to be consistent with the structural and immunological knowledge. Abalign was 
-implemented in a user-friendly software with interactive and visual interface, which supports the 
-multiple sequence alignment, as well as sequence clustering, antibody numbering, 
-complementarity-determining region delimiting, constructing phylogenetic tree, V-gene 
-determination and abundance analysis by just clicking the buttons for a given FASTA sequence 
-file. Abalign allows the high-throughput analysis for BCR sequencing data, which can be finished 
-in 420 minutes for 500 Mb sequences (a single thread with AMD CPU 2990WX). We believe that 
-Abalign is a powerful and efficient tool for biological researchers to analyze massive amounts of 
-BCR or antibody sequences and get new discovery in immunoinformatic study.
+&emsp;&emsp; Multiple sequence alignment (MAS) has long been used as a powerful method to investigate the evolutionary, structural and functional properties of protein families. It is also a fundamental technique in recent deep-learning based protein 3D structure predictors. Though existing MSA methods have been well-established, they are not suitable for high-throughput computation, and do not fulfill the needs of processing BCRs or antibody sequences, because the highly variable regions cannot be well aligned, without the prior knowledge of gene recombination and hypermutation in antibody maturation. To our knowledge, no MSA tool is particularly designed for BCR alignment up to day. To address this issue, we developed Abalign, which is a high-throughput and accurate MSA tool based on AbRSA[1]. Abalign incorporated the heuristic knowledge of antibody numberings, including IMGT, Kabat, Chothia and Martin, and follows the well-characterized patterns of conserved or insertion positions by immunology studies, which enable the result to be consistent with the structural and immunological knowledge. 
+&emsp;&emsp;Abalign was implemented in a user-friendly stand-alone program with interactive and visual interfaces, which support the multiple sequence alignment, as well as clustering, antibody numbering, delimiting CDR, constructing phylogenetic tree, VJ gene determination, clonotype analysis, aiding humanization, comparing BCR immune repertoires, etc. by just clicking the buttons. In addition, it supports the cross-analysis of multiple B cell receptor immune repertoire data to investigate information like shared clonotypes, or residue preferences, etc. Abalign can complete the alignment and analysis of 1 GB of DNA FASTA files at a very fast speed on a PC with only 16G of RAM. Abalign will profit immunoinformatic and pharmaceutical communities by analyzing massive BCRs or antibodies and making new discoveries.
 
-  
 
 ## Usage
 
