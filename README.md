@@ -1,4 +1,4 @@
-# Abalign: a multiple BCR sequence alignment tool guided by antibody numbering
+# Abalign: a comprehensive multiple sequence alignment platform for B cell receptor immune repertoires
 
 
 ## Introduce
