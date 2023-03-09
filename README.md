@@ -1,4 +1,4 @@
-# Abalign: a comprehensive multiple sequence alignment platform for B cell receptor immune repertoires
+# Abalign: a comprehensive multiple sequence alignment platform for B-cell receptor immune repertoires
 
 
 ## Introduce
